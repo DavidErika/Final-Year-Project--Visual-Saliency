@@ -1,0 +1,12 @@
+DeepGazeIIE model
+Filename,AUC-Judd
+High(i).png,0.774
+High(ii).png,0.835
+High(iii).png,0.932
+Low(i).png,0.879
+Low(ii).png,0.858
+Low(iii).png,0.947
+Medium(i).png,0.906
+Medium(ii).png,0.854
+Medium(iii).png,0.902
+Average,0.876
