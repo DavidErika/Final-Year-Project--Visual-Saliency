@@ -1,0 +1,13 @@
+python==3.11.9
+numpy
+opencv-python
+pandas
+matplotlib
+seaborn
+tqdm
+Pillow
+scikit-learn
+scipy
+tabulate
+mamba-ssm
+torch
