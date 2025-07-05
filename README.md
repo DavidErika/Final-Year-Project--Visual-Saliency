@@ -93,8 +93,11 @@ pip install -r requirements.txt
 
 ### 🧑‍💻 Author
 David Erika Topos
+
 BSc Computer Science
+
 Cardiff University
+
 LinkedIn • Email
 
 ### 📜 Acknowledgements
